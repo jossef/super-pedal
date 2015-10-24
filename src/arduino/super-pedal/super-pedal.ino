@@ -30,7 +30,7 @@ void loop()
   {
     Serial.println("copy");  
   }
-  else if (duration > 100)
+  else if (duration > 50)
   {
     Serial.println("paste");  
   }
