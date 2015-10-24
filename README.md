@@ -1,7 +1,7 @@
 ![image](https://raw.githubusercontent.com/jossef/super-pedal/master/logo/logo-04.png)
 
 ### What's that?
-that's the fruit of **weekend boredom**. it's actually an industrial pedal, connected to arduino leonardo as a momentory switch. the code will sample the duration of each `tap` and then mapped to keyboard strokes.
+that's the fruit of **weekend boredom**. it's actually an industrial pedal, connected to arduino leonardo as a momentory switch. the code will trigger keyboard strokes such as <kbd>ctrl</kbd> + <kbd>c</kbd> or  <kbd>ctrl</kbd> + <kbd>v</kbd>  .
 
 ### Tap Durations 
 the following is a map of pedal-tap durations and their keyboard stokes 
